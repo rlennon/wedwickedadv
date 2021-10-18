@@ -178,7 +178,8 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
 ### Branching Strategy
 GitworkFlows, main > develop > feature
-              main > documentation > topic
+ 
+ main > documentation > topic
   
 ### Estimating Story Points
 
