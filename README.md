@@ -30,16 +30,25 @@ This is the online repository for the DevOps Assignment 2021.
 
 
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
-
+### Scrum Master
+<<Niall Mc Carron>>
+ 
 ### Product Owner
-<<name>>
+<<Conor Kelly>>
 
 ### Rockstars
-* <<team member name>>
-* <<team member name>>
-* <<team member name>>
-* <<team member name>>
-  
+* <<Dominick Doherty>>
+* <<
+Jalen Raposo >>
+* <<
+David McDaid>>
+* <<
+Liam Kenny
+>>
+  <<
+ 
+Stephen O'Donnell
+>>
 ## Project Deadline
 
 Refer to BB for deadlines
@@ -62,7 +71,7 @@ Refer to BB for deadlines
 
 * Project Slack: <<slack channel link>>
 * GitHub: <<github repo link>>
-* Jira: <<Jira link>>
+* Jira: <<https://studentjira.lyit.ie/secure/Dashboard.jspa>>
    
 ### More Information
 
@@ -126,7 +135,7 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
 ### Meetings
 
-    Stand-ups will occur on Every <<day - Thursday>> during class and Mondays at 8pm GMT+1 using Automated bot.
+    Stand-ups will occur on Every <<Wednesday 1:30 - 2:30 >> during class and Mondays at 8pm GMT+1 using Automated bot.
     The order that people give their updates will be based on alphabetical order of those present at the meeting.
     Updates will be in the form: What I've done, Impediments, What I plan to do.
     Sprint planning will occur Mondays at the end of our sprint on Zoom.
@@ -148,7 +157,7 @@ These are the current Risks on the project, re-aligned on a weekly basis
     Slack is the preferred method of communication.
     Communication in this order: Slack
     If a demonstration is required use Zoom, record the session and upload to the Slack channel.
-    No Slack communications between "<Time and Timezone>" TBD.
+    No Slack communications between "<after 7:00>" TBD.
     Raise a problem as soon as you see it.
     Respect each other and understand differences in knowledge.
     All team documents are to be created using Markdown language and shared on GitHub.
@@ -171,7 +180,7 @@ These are the current Risks on the project, re-aligned on a weekly basis
 
 ## Other
 
-    Sprints will start <<date/time every Second Monday at 9pm GMT+1>>.
+    Sprints will start <<starts every thurdsay 3:30 to thursday to 3:30>>.
     The Scrum Master role rotates each week, the schedule is available on the on the process section
     Jira will be used for task management and planning.
     Each member of the team will work 8 per week, unless they are on vacation.
