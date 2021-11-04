@@ -48,6 +48,7 @@ public class LoginFrame extends JFrame implements ActionListener {
         container.add(showPassword);
         container.add(loginButton);
         container.add(resetButton);
+        container.setBackground((Color.blue);
     }
  
     public void addActionEvent() {
