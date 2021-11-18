@@ -25,5 +25,23 @@ public class PersonTest {
 		String lastName = p1.getLastName();
 		assertEquals("McDaid", lastName);
 	}
+	
+	@Test
+	public void testSetAge() {
+		p1.setAge(10);
+		assertEquals(10, p1.getAge());
+	}
+	
+	@Test
+	public void testSetFirstName() {
+		p1.setFirstName("John");
+		assertEquals("John", p1.getFirstName());
+	}
+	
+	@Test
+	public void testSetLastName() {
+		p1.setLastName("Doe");
+		assertEquals("Doe", p1.getLastName());
+	}
 
 }
