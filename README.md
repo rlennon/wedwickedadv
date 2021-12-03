@@ -31,23 +31,19 @@ This is the online repository for the DevOps Assignment 2021.
 
 Our product will be delivered using an Agile methodology that embraces the DevOps culture. Please note that our culture embraces change and these documents are treated as living, breathing artefacts that will be continuously updated.
 ### Scrum Master
-<<Liam Kenny>>
+<<Dominick Doherty>>
  
 ### Product Owner
-<<Stephen O'Donnell>>
+<<David Mc Daid>>
 
 ### Rockstars
 * <<Dominick Doherty>>
 * <<Conor kelly >>
 * <<
-David McDaid>>
-* <<
-Liam Kenny
->>
-  <<
- 
-Stephen O'Donnell
->>
+Stephen O Donnell>>
+* <<Liam Kenny>>
+  
+
 ## Project Deadline
 
 Refer to BB for deadlines
