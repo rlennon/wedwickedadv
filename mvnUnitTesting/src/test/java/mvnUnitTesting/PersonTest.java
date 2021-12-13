@@ -13,7 +13,7 @@ public class PersonTest {
 		int age = p1.getAge();
 		assertEquals(21, age);
 	}
-	
+	/*
 	@Test
 	public void testGetFirstName() {
 		String firstName = p1.getFirstName();
@@ -42,6 +42,6 @@ public class PersonTest {
 	public void testSetLastName() {
 		p1.setLastName("Doe");
 		assertEquals("Doe", p1.getLastName());
-	}
+	}*/
 
 }

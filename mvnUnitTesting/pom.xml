@@ -3,7 +3,8 @@
   <groupId>SimpleMvn</groupId>
   <artifactId>mvnUnitTesting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>MvnTest</name>
+  <name>MavenAndSonar</name>
+  <packaging>jar</packaging>
   <properties>
   	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   	<maven.compiler.release>17</maven.compiler.release>
@@ -13,6 +14,12 @@
   		<groupId>junit</groupId>
   		<artifactId>junit</artifactId>
   		<version>4.12</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>org.codehaus.mojo</groupId>
+  		<artifactId>sonar-maven-plugin</artifactId>
+  		<version>3.2</version>
+  		<type>pom</type>
   	</dependency>
   </dependencies>
   <build>
@@ -25,6 +32,6 @@
   				<release>17</release>
   			</configuration>
   		</plugin>
-  	</plugins>
-  </build>
+  </plugins>
+ </build>
 </project>
