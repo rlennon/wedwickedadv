@@ -5,8 +5,6 @@ name: Release
 #runs on every commit tag which begins with v
 on:
   push:
-    tags:
-      -"v*"
 
 #automatically creates a github release, with release details 
 jobs:
