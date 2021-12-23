@@ -11,11 +11,14 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps:
-      # ...
-      - name: "Build & test"
-        run: |
-          echo "done!"
+      - uses: actions/checkout@v2
+
+      - uses: actions/download-artifact@v2
+        with:
+          name: github-actions-artifact
+
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: false
+          files: github-actions-artifact
